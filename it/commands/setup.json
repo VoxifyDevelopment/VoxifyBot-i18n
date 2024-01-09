@@ -1,38 +1,14 @@
 {
   "name": "impostazioni",
   "description": "Configura i canali vocali temporanei per il tuo server Discord.",
-  "subCommands": {
-    "category": {
-      "name": "categoria",
-      "description": "Configura la categoria in cui dovrebbero essere creati i canali vocali.",
-      "options": {
-        "container": {
-          "name": "contenitore",
-          "description": "La categoria contenitore dei canali vocali.",
-          "required": true
-        }
-      }
-    },
-    "lobby": {
-      "name": "lobby",
-      "description": "Configura la lobby in cui gli utenti entrano per creare un nuovo canale vocale temporaneo.",
-      "options": {
-        "voiceChannel": {
-          "name": "canaleVocale",
-          "description": "Il canale vocale per creare nuovi canali vocali temporanei.",
-          "required": true
-        }
-      }
-    }
-  },
   "options": {
     "container": {
       "name": "contenitore",
       "description": "La categoria contenitore dei canali vocali.",
       "required": true
     },
-    "voiceChannel": {
-      "name": "canaleVocale",
+    "lobby": {
+      "name": "canale-vocale",
       "description": "Il canale vocale per creare nuovi canali vocali temporanei.",
       "required": true
     }

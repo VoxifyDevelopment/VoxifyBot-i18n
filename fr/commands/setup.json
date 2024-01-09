@@ -1,38 +1,14 @@
 {
   "name": "configuration",
   "description": "Configure des salons vocaux temporaires pour ton serveur Discord.",
-  "subCommands": {
-    "category": {
-      "name": "catégorie",
-      "description": "Configure la catégorie dans laquelle les salons vocaux doivent être créés.",
-      "options": {
-        "container": {
-          "name": "conteneur",
-          "description": "La catégorie contenant les salons vocaux.",
-          "required": true
-        }
-      }
-    },
-    "lobby": {
-      "name": "hall",
-      "description": "Configure le hall dans lequel les utilisateurs rejoignent pour créer un nouveau salon vocal temporaire.",
-      "options": {
-        "voiceChannel": {
-          "name": "canalVocal",
-          "description": "Le canal vocal pour créer de nouveaux canaux vocaux temporaires.",
-          "required": true
-        }
-      }
-    }
-  },
   "options": {
     "container": {
       "name": "conteneur",
       "description": "La catégorie contenant les salons vocaux.",
       "required": true
     },
-    "voiceChannel": {
-      "name": "canalVocal",
+    "lobby": {
+      "name": "canal-vocal",
       "description": "Le canal vocal pour créer de nouveaux canaux vocaux temporaires.",
       "required": true
     }

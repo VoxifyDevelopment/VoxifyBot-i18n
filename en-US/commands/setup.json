@@ -1,38 +1,14 @@
 {
   "name": "setup",
   "description": "Setup temporary voice channels for your Discord server.",
-  "subCommands": {
-    "category": {
-      "name": "category",
-      "description": "Setup the category in which the voice channels should be created.",
-      "options": {
-        "container": {
-          "name": "container",
-          "description": "The voice channels container category.",
-          "required": true
-        }
-      }
-    },
-    "lobby": {
-      "name": "lobby",
-      "description": "Setup the lobby in which user joins to create a new temp-voice-channel.",
-      "options": {
-        "voiceChannel": {
-          "name": "voiceChannel",
-          "description": "The voice channel to create new temp-voice-channels.",
-          "required": true
-        }
-      }
-    }
-  },
   "options": {
     "container": {
       "name": "container",
       "description": "The voice channels container category.",
       "required": true
     },
-    "voiceChannel": {
-      "name": "voiceChannel",
+    "lobby": {
+      "name": "lobby",
       "description": "The voice channel to create new temp-voice-channels.",
       "required": true
     }
