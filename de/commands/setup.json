@@ -12,5 +12,14 @@
       "description": "Der Sprachkanal zum Erstellen neuer temporärer Sprachkanäle.",
       "required": true
     }
+  },
+  "result": {
+    "success": "Einrichtung abgeschlossen!\nLobby: ${channel}\nContainer: ${container}\nGenieße die temporäre Spracherfahrung.",
+    "error": "**Fehler**: Einrichtung konnte nicht abgeschlossen werden.\n${error}\n**Versuche es erneut.**"
+  },
+  "errors": {
+    "no-access-container": "```\nDer Bot kann nicht auf den Container-Kategoriekanal zugreifen.\n```",
+    "no-access-lobby": "```\nDer Bot kann nicht auf den Lobby-Kategoriekanal zugreifen.\n```",
+    "no-perm": "\n```Der Bot hat keine Berechtigungen zum Verwalten von Kanälen auf deinem Server.\n```\nGehe zu **Servereinstellungen** > **Rollen**, um dem Bot Berechtigungen zu erteilen."
   }
 }

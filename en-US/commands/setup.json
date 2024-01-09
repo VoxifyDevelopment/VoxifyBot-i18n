@@ -12,5 +12,14 @@
       "description": "The voice channel to create new temp-voice-channels.",
       "required": true
     }
+  },
+  "result": {
+    "success": "Setup Complete!\nLobby: ${channel}\nContainer:${container}\nEnjoy the temporary-voice experience.",
+    "error": "**Error**: Could not complete setup.\n${error}\n**Try again.**"
+  },
+  "errors": {
+    "no-access-container": "```\nThe bot cannot access the container category chanenl.\n```",
+    "no-access-lobby": "```\nThe bot cannot access the lobby chanenl.\n```",
+    "no-perm": "\n```The bot does not have permissions to manage channels in your server.\n```\nGo to **Server Settings**>**Roles** to grant permissions to the bot."
   }
 }

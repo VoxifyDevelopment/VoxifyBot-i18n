@@ -12,5 +12,14 @@
       "description": "Il canale vocale per creare nuovi canali vocali temporanei.",
       "required": true
     }
+  },
+  "result": {
+    "success": "Configurazione completata!\nLobby: ${channel}\nContenitore: ${container}\nGoditi l'esperienza vocale temporanea.",
+    "error": "**Errore**: Impossibile completare la configurazione.\n${error}\n**Riprova.**"
+  },
+  "errors": {
+    "no-access-container": "```\nIl bot non può accedere al canale della categoria del contenitore.\n```",
+    "no-access-lobby": "```\nIl bot non può accedere al canale della lobby.\n```",
+    "no-perm": "\n```Il bot non ha le autorizzazioni per gestire i canali nel tuo server.\n```\nVai su **Impostazioni del server** > **Ruoli** per concedere le autorizzazioni al bot."
   }
 }

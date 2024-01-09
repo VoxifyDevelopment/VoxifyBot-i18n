@@ -12,5 +12,14 @@
       "description": "Le canal vocal pour créer de nouveaux canaux vocaux temporaires.",
       "required": true
     }
+  },
+  "result": {
+    "success": "Configuration terminée !\nHall : ${channel}\nConteneur : ${container}\nProfitez de l'expérience vocale temporaire.",
+    "error": "**Erreur** : Impossible de terminer la configuration.\n${error}\n**Réessayez.**"
+  },
+  "errors": {
+    "no-access-container": "```\nLe bot ne peut pas accéder au canal de catégorie de conteneur.\n```",
+    "no-access-lobby": "```\nLe bot ne peut pas accéder au canal de hall.\n```",
+    "no-perm": "\n```Le bot n'a pas les autorisations nécessaires pour gérer les canaux sur votre serveur.\n```\nAllez dans **Paramètres du serveur** > **Rôles** pour accorder les autorisations au bot."
   }
 }

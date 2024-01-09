@@ -12,5 +12,14 @@
       "description": "Hlasový kanál pro vytváření nových dočasných hlasových kanálů.",
       "required": true
     }
+  },
+  "result": {
+    "success": "Nastavení dokončeno!\nLobby: ${channel}\nKontejner: ${container}\nUžijte si dočasný hlasový zážitek.",
+    "error": "**Chyba**: Nastavení se nepodařilo dokončit.\n${error}\n**Zkuste to znovu.**"
+  },
+  "errors": {
+    "no-access-container": "```\nBot nemá přístup k kategorii kontejneru kanálu.\n```",
+    "no-access-lobby": "```\nBot nemá přístup k lobby kanálu.\n```",
+    "no-perm": "\n```Bot nemá oprávnění k řízení kanálů ve vašem serveru.\n```\nPřejděte do **Nastavení serveru** > **Role**, abyste udělili botovi oprávnění."
   }
 }

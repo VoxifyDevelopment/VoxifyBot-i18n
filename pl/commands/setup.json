@@ -12,5 +12,14 @@
       "description": "Kanał głosowy do tworzenia nowych tymczasowych kanałów głosowych.",
       "required": true
     }
+  },
+  "result": {
+    "success": "Konfiguracja zakończona!\nLobby: ${channel}\nPojemnik: ${container}\nCiesz się czasowym doświadczeniem głosowym.",
+    "error": "**Błąd**: Nie udało się zakończyć konfiguracji.\n${error}\n**Spróbuj ponownie.**"
+  },
+  "errors": {
+    "no-access-container": "```\nBot nie ma dostępu do kategorii kontenera kanału.\n```",
+    "no-access-lobby": "```\nBot nie ma dostępu do lobby kanału.\n```",
+    "no-perm": "\n```Bot nie ma uprawnień do zarządzania kanałami na twoim serwerze.\n```\nPrzejdź do **Ustawień serwera** > **Role**, aby nadać botowi uprawnienia."
   }
 }
