@@ -1,0 +1,40 @@
+{
+  "name": "nastaveni",
+  "description": "Nastav dočasné hlasové kanály pro svůj Discord server.",
+  "subCommands": {
+    "category": {
+      "name": "kategorie",
+      "description": "Nastav kategorii, ve které mají být vytvářeny hlasové kanály.",
+      "options": {
+        "container": {
+          "name": "kontejner",
+          "description": "Kategorie kontejneru hlasových kanálů.",
+          "required": true
+        }
+      }
+    },
+    "lobby": {
+      "name": "lobby",
+      "description": "Nastav lobby, do které se uživatelé připojí pro vytvoření nového dočasného hlasového kanálu.",
+      "options": {
+        "voiceChannel": {
+          "name": "hlasovýKanál",
+          "description": "Hlasový kanál pro vytváření nových dočasných hlasových kanálů.",
+          "required": true
+        }
+      }
+    }
+  },
+  "options": {
+    "container": {
+      "name": "kontejner",
+      "description": "Kategorie kontejneru hlasových kanálů.",
+      "required": true
+    },
+    "voiceChannel": {
+      "name": "hlasovýKanál",
+      "description": "Hlasový kanál pro vytváření nových dočasných hlasových kanálů.",
+      "required": true
+    }
+  }
+}

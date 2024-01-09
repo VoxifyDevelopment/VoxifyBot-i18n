@@ -1,0 +1,40 @@
+{
+  "name": "setup",
+  "description": "Richte temporäre Sprachkanäle für deinen Discord-Server ein.",
+  "subCommands": {
+    "category": {
+      "name": "kategorie",
+      "description": "Richte die Kategorie ein, in der die Sprachkanäle erstellt werden sollen.",
+      "options": {
+        "container": {
+          "name": "behälter",
+          "description": "Die Kategorie für die Sprachkanal-Container.",
+          "required": true
+        }
+      }
+    },
+    "lobby": {
+      "name": "lobby",
+      "description": "Richte die Lobby ein, in der Benutzer beitreten, um einen neuen temporären Sprachkanal zu erstellen.",
+      "options": {
+        "voiceChannel": {
+          "name": "voiceChannel",
+          "description": "Der Sprachkanal zum Erstellen neuer temporärer Sprachkanäle.",
+          "required": true
+        }
+      }
+    }
+  },
+  "options": {
+    "container": {
+      "name": "behälter",
+      "description": "Die Kategorie für die Sprachkanal-Container.",
+      "required": true
+    },
+    "voiceChannel": {
+      "name": "voiceChannel",
+      "description": "Der Sprachkanal zum Erstellen neuer temporärer Sprachkanäle.",
+      "required": true
+    }
+  }
+}

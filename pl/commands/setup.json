@@ -1,0 +1,40 @@
+{
+  "name": "ustawienia",
+  "description": "Ustaw tymczasowe kanały głosowe dla swojego Discorda.",
+  "subCommands": {
+    "category": {
+      "name": "kategoria",
+      "description": "Ustaw kategorię, w której powinny być tworzone kanały głosowe.",
+      "options": {
+        "container": {
+          "name": "pojemnik",
+          "description": "Kategoria kontenera kanałów głosowych.",
+          "required": true
+        }
+      }
+    },
+    "lobby": {
+      "name": "hol",
+      "description": "Ustaw lobby, do którego użytkownicy dołączają, aby utworzyć nowy kanał głosowy tymczasowy.",
+      "options": {
+        "voiceChannel": {
+          "name": "kanałGłosowy",
+          "description": "Kanał głosowy do tworzenia nowych tymczasowych kanałów głosowych.",
+          "required": true
+        }
+      }
+    }
+  },
+  "options": {
+    "container": {
+      "name": "pojemnik",
+      "description": "Kategoria kontenera kanałów głosowych.",
+      "required": true
+    },
+    "voiceChannel": {
+      "name": "kanałGłosowy",
+      "description": "Kanał głosowy do tworzenia nowych tymczasowych kanałów głosowych.",
+      "required": true
+    }
+  }
+}
