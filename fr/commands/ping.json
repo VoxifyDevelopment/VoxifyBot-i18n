@@ -1,0 +1,5 @@
+{
+  "name": "ping",
+  "description": "Vérifiez si le bot peut répondre.",
+  "success": "Voici votre Pong !"
+}
