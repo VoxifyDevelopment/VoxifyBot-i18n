@@ -1,0 +1,5 @@
+{
+  "name": "języki",
+  "description": "Sprawdź aktualnie obsługiwane języki bota.",
+  "success": "Aktualnie obsługujemy te języki.\n```\n${languages}\n```\n"
+}

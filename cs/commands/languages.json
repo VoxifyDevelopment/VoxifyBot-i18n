@@ -1,0 +1,5 @@
+{
+  "name": "jazyky",
+  "description": "Podívejte se na aktuálně podporované jazyky bota.",
+  "success": "Momentálně podporujeme tyto jazyky.\n```\n${languages}\n```\n"
+}

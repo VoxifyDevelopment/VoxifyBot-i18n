@@ -1,0 +1,5 @@
+{
+  "name": "languages",
+  "description": "Check out the currently supported languages of the bot.",
+  "success": "We currently support these languages.\n```\n${languages}\n```\n"
+}
