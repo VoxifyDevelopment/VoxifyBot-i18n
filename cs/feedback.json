@@ -1,3 +1,7 @@
 {
-  "success": "Úspěch"
+  "success": "Úspěch",
+  "error": "Chyba",
+  "warning": "Varování",
+  "attention": "Pozor",
+  "ok": "Dobře"
 }

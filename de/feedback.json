@@ -1,3 +1,7 @@
 {
-  "success": "Erfolg"
+  "success": "Erfolg",
+  "error": "Fehler",
+  "warning": "Warnung",
+  "attention": "Achtung",
+  "ok": "Okay"
 }
