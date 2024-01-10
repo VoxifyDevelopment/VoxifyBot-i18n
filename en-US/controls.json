@@ -1,0 +1,85 @@
+{
+  "name": "Controller Menu for temporary voice channels",
+  "description": "This is the controller for the temporary voice chats.\nYou can click the following buttons to perform the specified action.",
+  "error-message": "Could not send message to temporary voice channel.",
+  "success-message": "Controls sent to ${channel} » ${message}",
+  "buttons": {
+    "rename": {
+      "name": "Rename Channel",
+      "emoji": "✏️",
+      "description": "Rename your current voice channel."
+    },
+    "limit": {
+      "name": "Set Channel Limit",
+      "emoji": "👥",
+      "description": "Set user limit for your voice channel."
+    },
+    "bitrate": {
+      "name": "Set Channel Bitrate",
+      "emoji": "🎤",
+      "description": "Adjust the bitrate for your voice channel."
+    },
+    "nsfw": {
+      "name": "Toggle NSFW",
+      "emoji": "🔞",
+      "description": "Mark your voice channel as NSFW/SFW."
+    },
+    "status": {
+      "name": "Set Channel Status",
+      "emoji": "📢",
+      "description": "Set the status of your voice channel."
+    },
+
+    "kick": {
+      "name": "Kick a User",
+      "emoji": "👢",
+      "description": "Kick a user from your voice channel."
+    },
+    "ban": {
+      "name": "Ban a User",
+      "emoji": "🚫",
+      "description": "Ban a user from your voice channel."
+    },
+    "invite": {
+      "name": "Invite a User",
+      "emoji": "📩",
+      "description": "Invite a user to your voice channel."
+    },
+    "clear": {
+      "name": "Clear 100 Channel Messages",
+      "emoji": "🧹",
+      "description": "Clear the chat in your voice channel."
+    },
+    "close": {
+      "name": "Close Channel",
+      "emoji": "🚪",
+      "description": "Close your voice channel."
+    },
+
+    "lock": {
+      "name": "Lock ",
+      "emoji": "🔐",
+      "description": "Lock your voice channel."
+    },
+    "show": {
+      "name": "Show ",
+      "emoji": "👁️",
+      "description": "Show your voice channel."
+    },
+    "hide": {
+      "name": "Hide ",
+      "emoji": "🙈",
+      "description": "Hide your voice channel."
+    },
+    "public": {
+      "name": "Set Channel Public",
+      "emoji": "🌐",
+      "description": "Set your voice channel to public."
+    },
+    "private": {
+      "name": "Set Channel Private",
+      "emoji": "🔒",
+      "description": "Set your voice channel to private."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "support": {
+    "name": "Support",
+    "emoji": "🤝",
+    "url": "discord://discord.com/invite/wUXQt9hb84"
+  },
+  "invite": {
+    "name": "Invite",
+    "emoji": "➕",
+    "url": "discord://discord.com/api/oauth2/authorize?client_id=1193742643725869116&permissions=8&scope=applications.commands+bot"
+  },
+  "github": {
+    "name": "Github",
+    "emoji": "🔗",
+    "url": "https://github.voxifybot.com/"
+  },
+  "translate": {
+    "name": "Translate",
+    "emoji": "🌐",
+    "url": "https://translate.voxifybot.com/"
+  }
+}
