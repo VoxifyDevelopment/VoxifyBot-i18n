@@ -1,0 +1,13 @@
+{
+  "no-vc": "You're not in a voice channel.",
+  "no-tvc": "You're not in a temporary voice channel.",
+  "no-perm": "You cannot manage this channel.",
+  "no-perm-bot": "I don't have enough power to do this.",
+  "not-your-tvc": "This is not your voice channel.",
+  "failed-fetch": "I cannot find your user data.",
+  "bots-ignored": "You cannot manage bots in voice channels.",
+  "target-power": "The target user has too much power.",
+  "target-outside": "The target is not in your voice channel.",
+  "target-yourself": "You cannot target yourself.",
+  "tvc": "An error occurred:\n```\n${error}\n```\n\n**Try again.**"
+}
