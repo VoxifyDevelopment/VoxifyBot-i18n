@@ -1,0 +1,13 @@
+{
+  "no-vc": "Du befindest dich nicht in einem Sprachkanal.",
+  "no-tvc": "Du befindest dich nicht in einem temporären Sprachkanal.",
+  "no-perm": "Du kannst diesen Kanal nicht verwalten.",
+  "no-perm-bot": "Ich habe nicht genügend Rechte dafür.",
+  "not-your-tvc": "Dies ist nicht dein Sprachkanal.",
+  "failed-fetch": "Ich kann deine Benutzerdaten nicht abrufen.",
+  "bots-ignored": "Du kannst Bots in Sprachkanälen nicht verwalten.",
+  "target-power": "Der Zielbenutzer hat zu viele Rechte.",
+  "target-outside": "Das Ziel befindet sich nicht in deinem Sprachkanal.",
+  "target-yourself": "Du kannst dich nicht selbst zum Ziel nehmen.",
+  "tvc": "Ein Fehler ist aufgetreten:\n```\n${error}\n```\n\n**Versuche es erneut.**"
+}

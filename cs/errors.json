@@ -1,0 +1,13 @@
+{
+  "no-vc": "Nejste v hlasovém kanálu.",
+  "no-tvc": "Nejste v dočasném hlasovém kanálu.",
+  "no-perm": "Nemůžete spravovat tento kanál.",
+  "no-perm-bot": "Nemám dostatečná práva k provedení této akce.",
+  "not-your-tvc": "Toto není váš hlasový kanál.",
+  "failed-fetch": "Nelze načíst vaše uživatelské údaje.",
+  "bots-ignored": "Nemůžete spravovat boty ve hlasových kanálech.",
+  "target-power": "Cílový uživatel má příliš mnoho práv.",
+  "target-outside": "Cíl není ve vašem hlasovém kanále.",
+  "target-yourself": "Nemůžete zvolit sebe.",
+  "tvc": "Došlo k chybě:\n```\n${error}\n```\n\n**Zkuste to znovu.**"
+}

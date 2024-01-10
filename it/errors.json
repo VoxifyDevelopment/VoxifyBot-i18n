@@ -1,0 +1,13 @@
+{
+  "no-vc": "Non sei in un canale vocale.",
+  "no-tvc": "Non sei in un canale vocale temporaneo.",
+  "no-perm": "Non puoi gestire questo canale.",
+  "no-perm-bot": "Non ho abbastanza potere per farlo.",
+  "not-your-tvc": "Questo non è il tuo canale vocale.",
+  "failed-fetch": "Non riesco a trovare i tuoi dati utente.",
+  "bots-ignored": "Non puoi gestire i bot nei canali vocali.",
+  "target-power": "L'utente di destinazione ha troppo potere.",
+  "target-outside": "Il destinatario non è nel tuo canale vocale.",
+  "target-yourself": "Non puoi prendere te stesso come destinatario.",
+  "tvc": "Si è verificato un errore:\n```\n${error}\n```\n\n**Riprova.**"
+}

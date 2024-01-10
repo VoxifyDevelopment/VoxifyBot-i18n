@@ -1,0 +1,13 @@
+{
+  "no-vc": "Vous n'êtes pas dans un salon vocal.",
+  "no-tvc": "Vous n'êtes pas dans un salon vocal temporaire.",
+  "no-perm": "Vous ne pouvez pas gérer ce salon.",
+  "no-perm-bot": "Je n'ai pas assez de pouvoir pour faire cela.",
+  "not-your-tvc": "Ce n'est pas votre salon vocal.",
+  "failed-fetch": "Je ne peux pas trouver vos données utilisateur.",
+  "bots-ignored": "Vous ne pouvez pas gérer les bots dans les salons vocaux.",
+  "target-power": "L'utilisateur ciblé a trop de pouvoir.",
+  "target-outside": "La cible n'est pas dans votre salon vocal.",
+  "target-yourself": "Vous ne pouvez pas vous cibler vous-même.",
+  "tvc": "Une erreur s'est produite :\n```\n${error}\n```\n\n**Réessayez.**"
+}

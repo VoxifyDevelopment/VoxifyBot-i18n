@@ -1,0 +1,13 @@
+{
+  "no-vc": "Nie znajdujesz się w kanale głosowym.",
+  "no-tvc": "Nie znajdujesz się w tymczasowym kanale głosowym.",
+  "no-perm": "Nie możesz zarządzać tym kanałem.",
+  "no-perm-bot": "Nie mam wystarczającej mocy, aby to zrobić.",
+  "not-your-tvc": "To nie jest twój kanał głosowy.",
+  "failed-fetch": "Nie mogę odnaleźć danych użytkownika.",
+  "bots-ignored": "Nie możesz zarządzać botami w kanałach głosowych.",
+  "target-power": "Docelowy użytkownik ma zbyt wiele uprawnień.",
+  "target-outside": "Docelowy użytkownik nie znajduje się w twoim kanale głosowym.",
+  "target-yourself": "Nie możesz wybrać siebie.",
+  "tvc": "Wystąpił błąd:\n```\n${error}\n```\n\n**Spróbuj ponownie.**"
+}
