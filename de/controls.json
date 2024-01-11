@@ -1,0 +1,85 @@
+{
+  "name": "(TVC) Menü für temporäre Sprachkanäle",
+  "description": "Das ist die Steuerung für die temporären Sprachchats.\nKlick auf die folgenden Knöpfe, um die angegebene Aktion auszuführen.",
+  "error-message": "Konnte die Nachricht nicht an den temporären Sprachkanal senden.",
+  "success-message": "Steuerung gesendet an ${channel} » ${message}",
+  "buttons": {
+    "rename": {
+      "name": "Kanal umbenennen",
+      "emoji": "✏️",
+      "description": "Benenn deinen aktuellen Sprachkanal um."
+    },
+    "limit": {
+      "name": "Kanalbegrenzung festlegen",
+      "emoji": "👥",
+      "description": "Setz die Benutzerbegrenzung für deinen Sprachkanal."
+    },
+    "bitrate": {
+      "name": "Kanal-Bitrate festlegen",
+      "emoji": "🎤",
+      "description": "Stell die Bitrate für deinen Sprachkanal ein."
+    },
+    "nsfw": {
+      "name": "NSFW umschalten",
+      "emoji": "🔞",
+      "description": "Markier deinen Sprachkanal als NSFW/SFW."
+    },
+    "status": {
+      "name": "Kanalstatus festlegen",
+      "emoji": "📢",
+      "description": "Setz den Status deines Sprachkanals."
+    },
+
+    "kick": {
+      "name": "Benutzer rausschmeißen",
+      "emoji": "👢",
+      "description": "Schmeiß einen Benutzer aus deinem Sprachkanal."
+    },
+    "ban": {
+      "name": "Benutzer sperren",
+      "emoji": "🚫",
+      "description": "Sperr einen Benutzer aus deinem Sprachkanal."
+    },
+    "invite": {
+      "name": "Benutzer einladen",
+      "emoji": "📩",
+      "description": "Lad einen Benutzer in deinen Sprachkanal ein."
+    },
+    "clear": {
+      "name": "100 Kanalnachrichten löschen",
+      "emoji": "🧹",
+      "description": "Lösch den Chat in deinem Sprachkanal."
+    },
+    "close": {
+      "name": "Kanal schließen",
+      "emoji": "🚪",
+      "description": "Schließ deinen Sprachkanal."
+    },
+
+    "lock": {
+      "name": "Sperren",
+      "emoji": "🔐",
+      "description": "Sperr deinen Sprachkanal."
+    },
+    "show": {
+      "name": "Anzeigen",
+      "emoji": "👁️",
+      "description": "Zeig deinen Sprachkanal."
+    },
+    "hide": {
+      "name": "Verstecken",
+      "emoji": "🙈",
+      "description": "Versteck deinen Sprachkanal."
+    },
+    "public": {
+      "name": "Kanal öffentlich",
+      "emoji": "🌐",
+      "description": "Setz deinen Sprachkanal auf öffentlich."
+    },
+    "private": {
+      "name": "Kanal privat",
+      "emoji": "🔒",
+      "description": "Setz deinen Sprachkanal auf privat."
+    }
+  }
+}

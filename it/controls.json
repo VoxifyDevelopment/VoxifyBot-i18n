@@ -1,0 +1,85 @@
+{
+  "name": "(TVC) Menu di controllo per i canali vocali temporanei",
+  "description": "Questo è il controller per le chat vocali temporanee.\nPuoi cliccare sui seguenti pulsanti per eseguire l'azione specificata.",
+  "error-message": "Impossibile inviare il messaggio al canale vocale temporaneo.",
+  "success-message": "Comandi inviati a ${channel} » ${message}",
+  "buttons": {
+    "rename": {
+      "name": "Rinomina canale",
+      "emoji": "✏️",
+      "description": "Rinomina il tuo canale vocale attuale."
+    },
+    "limit": {
+      "name": "Imposta limite canale",
+      "emoji": "👥",
+      "description": "Imposta il limite utenti per il tuo canale vocale."
+    },
+    "bitrate": {
+      "name": "Imposta bitrate canale",
+      "emoji": "🎤",
+      "description": "Regola il bitrate per il tuo canale vocale."
+    },
+    "nsfw": {
+      "name": "Attiva/disattiva NSFW",
+      "emoji": "🔞",
+      "description": "Marca il tuo canale vocale come NSFW/SFW."
+    },
+    "status": {
+      "name": "Imposta stato canale",
+      "emoji": "📢",
+      "description": "Imposta lo stato del tuo canale vocale."
+    },
+
+    "kick": {
+      "name": "Espelli utente",
+      "emoji": "👢",
+      "description": "Espelli un utente dal tuo canale vocale."
+    },
+    "ban": {
+      "name": "Banna utente",
+      "emoji": "🚫",
+      "description": "Banna un utente dal tuo canale vocale."
+    },
+    "invite": {
+      "name": "Invita utente",
+      "emoji": "📩",
+      "description": "Invita un utente nel tuo canale vocale."
+    },
+    "clear": {
+      "name": "Cancella 100 messaggi del canale",
+      "emoji": "🧹",
+      "description": "Cancella la chat nel tuo canale vocale."
+    },
+    "close": {
+      "name": "Chiudi canale",
+      "emoji": "🚪",
+      "description": "Chiudi il tuo canale vocale."
+    },
+
+    "lock": {
+      "name": "Blocca ",
+      "emoji": "🔐",
+      "description": "Blocca il tuo canale vocale."
+    },
+    "show": {
+      "name": "Mostra ",
+      "emoji": "👁️",
+      "description": "Mostra il tuo canale vocale."
+    },
+    "hide": {
+      "name": "Nascondi ",
+      "emoji": "🙈",
+      "description": "Nascondi il tuo canale vocale."
+    },
+    "public": {
+      "name": "Imposta canale pubblico",
+      "emoji": "🌐",
+      "description": "Imposta il tuo canale vocale come pubblico."
+    },
+    "private": {
+      "name": "Imposta canale privato",
+      "emoji": "🔒",
+      "description": "Imposta il tuo canale vocale come privato."
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "name": "(TVC) Menu kontrolne dla tymczasowych kanałów głosowych",
+  "description": "To jest kontroler dla tymczasowych rozmów głosowych.\nMożesz kliknąć poniższe przyciski, aby wykonać określoną akcję.",
+  "error-message": "Nie można wysłać wiadomości do tymczasowego kanału głosowego.",
+  "success-message": "Kontrolki wysłane do ${channel} » ${message}",
+  "buttons": {
+    "rename": {
+      "name": "Zmień nazwę kanału",
+      "emoji": "✏️",
+      "description": "Zmień nazwę swojego aktualnego kanału głosowego."
+    },
+    "limit": {
+      "name": "Ustaw limit kanału",
+      "emoji": "👥",
+      "description": "Ustaw limit użytkowników dla swojego kanału głosowego."
+    },
+    "bitrate": {
+      "name": "Ustaw bitrate kanału",
+      "emoji": "🎤",
+      "description": "Dostosuj bitrate dla swojego kanału głosowego."
+    },
+    "nsfw": {
+      "name": "Przełącz NSFW",
+      "emoji": "🔞",
+      "description": "Oznacz swój kanał głosowy jako NSFW/SFW."
+    },
+    "status": {
+      "name": "Ustaw status kanału",
+      "emoji": "📢",
+      "description": "Ustaw status swojego kanału głosowego."
+    },
+
+    "kick": {
+      "name": "Wyrzuć użytkownika",
+      "emoji": "👢",
+      "description": "Wyrzuć użytkownika ze swojego kanału głosowego."
+    },
+    "ban": {
+      "name": "Zbanuj użytkownika",
+      "emoji": "🚫",
+      "description": "Zbanuj użytkownika ze swojego kanału głosowego."
+    },
+    "invite": {
+      "name": "Zaproś użytkownika",
+      "emoji": "📩",
+      "description": "Zaproś użytkownika do swojego kanału głosowego."
+    },
+    "clear": {
+      "name": "Wyczyść 100 wiadomości kanału",
+      "emoji": "🧹",
+      "description": "Wyczyść czat w swoim kanału głosowym."
+    },
+    "close": {
+      "name": "Zamknij kanał",
+      "emoji": "🚪",
+      "description": "Zamknij swój kanał głosowy."
+    },
+
+    "lock": {
+      "name": "Zablokuj ",
+      "emoji": "🔐",
+      "description": "Zablokuj swój kanał głosowy."
+    },
+    "show": {
+      "name": "Pokaż ",
+      "emoji": "👁️",
+      "description": "Pokaż swój kanał głosowy."
+    },
+    "hide": {
+      "name": "Ukryj ",
+      "emoji": "🙈",
+      "description": "Ukryj swój kanał głosowy."
+    },
+    "public": {
+      "name": "Ustaw kanał jako publiczny",
+      "emoji": "🌐",
+      "description": "Ustaw swój kanał głosowy jako publiczny."
+    },
+    "private": {
+      "name": "Ustaw kanał jako prywatny",
+      "emoji": "🔒",
+      "description": "Ustaw swój kanał głosowy jako prywatny."
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "Controller Menu for temporary voice channels",
+  "name": "(TVC) Controller Menu for temporary voice channels",
   "description": "This is the controller for the temporary voice chats.\nYou can click the following buttons to perform the specified action.",
   "error-message": "Could not send message to temporary voice channel.",
   "success-message": "Controls sent to ${channel} » ${message}",

@@ -1,0 +1,85 @@
+{
+  "name": "(TVC) Ovládací menu pro dočasné hlasové kanály",
+  "description": "To je ovládací prvek pro dočasné hlasové chaty.\nKlikni na následující tlačítka pro provedení určené akce.",
+  "error-message": "Nelze odeslat zprávu do dočasného hlasového kanálu.",
+  "success-message": "Ovládání odesláno do ${channel} » ${message}",
+  "buttons": {
+    "rename": {
+      "name": "Přejmenovat kanál",
+      "emoji": "✏️",
+      "description": "Přejmenuj svůj aktuální hlasový kanál."
+    },
+    "limit": {
+      "name": "Nastavit limit kanálu",
+      "emoji": "👥",
+      "description": "Nastav limit uživatelů pro svůj hlasový kanál."
+    },
+    "bitrate": {
+      "name": "Nastavit bitovou rychlost kanálu",
+      "emoji": "🎤",
+      "description": "Nastav bitovou rychlost pro svůj hlasový kanál."
+    },
+    "nsfw": {
+      "name": "Přepnout NSFW",
+      "emoji": "🔞",
+      "description": "Označ svůj hlasový kanál jako NSFW/SFW."
+    },
+    "status": {
+      "name": "Nastavit stav kanálu",
+      "emoji": "📢",
+      "description": "Nastav stav svého hlasového kanálu."
+    },
+
+    "kick": {
+      "name": "Vyhodit uživatele",
+      "emoji": "👢",
+      "description": "Vyhodit uživatele ze svého hlasového kanálu."
+    },
+    "ban": {
+      "name": "Zakázat uživatele",
+      "emoji": "🚫",
+      "description": "Zakázat uživatele ve svém hlasovém kanálu."
+    },
+    "invite": {
+      "name": "Pozvat uživatele",
+      "emoji": "📩",
+      "description": "Pozvat uživatele do svého hlasového kanálu."
+    },
+    "clear": {
+      "name": "Vymazat 100 zpráv kanálu",
+      "emoji": "🧹",
+      "description": "Vymazat chat ve svém hlasovém kanálu."
+    },
+    "close": {
+      "name": "Zavřít kanál",
+      "emoji": "🚪",
+      "description": "Zavřít svůj hlasový kanál."
+    },
+
+    "lock": {
+      "name": "Zamknout ",
+      "emoji": "🔐",
+      "description": "Zamknout svůj hlasový kanál."
+    },
+    "show": {
+      "name": "Zobrazit ",
+      "emoji": "👁️",
+      "description": "Zobrazit svůj hlasový kanál."
+    },
+    "hide": {
+      "name": "Skrýt ",
+      "emoji": "🙈",
+      "description": "Skrýt svůj hlasový kanál."
+    },
+    "public": {
+      "name": "Nastavit kanál veřejný",
+      "emoji": "🌐",
+      "description": "Nastavit svůj hlasový kanál jako veřejný."
+    },
+    "private": {
+      "name": "Nastavit kanál soukromý",
+      "emoji": "🔒",
+      "description": "Nastavit svůj hlasový kanál jako soukromý."
+    }
+  }
+}
