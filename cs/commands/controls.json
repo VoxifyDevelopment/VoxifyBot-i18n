@@ -1,0 +1,8 @@
+{
+  "name": "ovládání",
+  "description": "Získejte ovladač pro dočasné hlasové kanály.",
+  "show": {
+    "name": "zobrazit",
+    "description": "Má být ovladač veřejný?"
+  }
+}

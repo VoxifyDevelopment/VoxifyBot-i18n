@@ -1,0 +1,8 @@
+{
+  "name": "controlli",
+  "description": "Ottieni un controller per i canali vocali temporanei.",
+  "show": {
+    "name": "mostra",
+    "description": "Il controller dovrebbe essere pubblico?"
+  }
+}

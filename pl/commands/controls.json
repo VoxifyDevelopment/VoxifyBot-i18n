@@ -1,0 +1,8 @@
+{
+  "name": "kontrole",
+  "description": "Uzyskaj kontroler tymczasowych kanałów głosowych.",
+  "show": {
+    "name": "pokaż",
+    "description": "Czy kontroler powinien być publiczny?"
+  }
+}

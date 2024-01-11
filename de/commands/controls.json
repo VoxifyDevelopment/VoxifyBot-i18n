@@ -1,0 +1,8 @@
+{
+  "name": "steuerungen",
+  "description": "Erhalte einen Controller für temporäre Sprachkanäle.",
+  "show": {
+    "name": "anzeigen",
+    "description": "Soll der Controller öffentlich sein?"
+  }
+}
