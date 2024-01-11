@@ -28,11 +28,11 @@ Centralized translation files repository for seamless integration with [VoxifyBo
 
 #### **🇺🇸 English (en-US):**
 
-"Elevate Discord voice channels with seamless management, multilingual support, and blazing speed for an unparalleled user experience."
+Elevate Discord voice channels with seamless management, multilingual support, and blazing speed for an unparalleled user experience.
 
 #### **🇬🇧 English (en-GB):**
 
-"Elevate Discord voice channels with seamless management, multilingual support, and blazing speed for an unparalleled user experience."
+Elevate Discord voice channels with seamless management, multilingual support, and blazing speed for an unparalleled user experience.
 
 #### **🇩🇪 German (de):**
 
