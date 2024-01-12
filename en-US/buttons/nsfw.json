@@ -1,1 +1,5 @@
-{}
+{
+  "name": "(TVC) Toggle NSFW/SFW",
+  "activated": "Successfully set channel to NSFW.",
+  "deactivated": "Successfully set channel to SFW."
+}
