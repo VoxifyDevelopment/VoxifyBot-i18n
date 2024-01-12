@@ -15,8 +15,13 @@
     "url": "https://github.voxifybot.com/"
   },
   "translate": {
-    "name": "Translate",
+    "name": "Translate VoxifyBot",
     "emoji": "🌐",
     "url": "https://translate.voxifybot.com/"
+  },
+  "wiki": {
+    "name": "Our Wiki",
+    "emoji": "📚",
+    "url": "https://wiki.voxify.dev/VoxifyBot"
   }
 }
