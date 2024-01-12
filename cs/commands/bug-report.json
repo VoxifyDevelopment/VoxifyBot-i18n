@@ -1,0 +1,13 @@
+{
+  "name": "bug-report",
+  "description": "Nahlásit chybu vývojářům.",
+  "description-2": "Buďte přesní v tom, co způsobilo chybu nebo bug.\nPřidejte podrobný popis, jak chybu reprodukovat.",
+  "success": "Zpráva o chybě úspěšně odeslána vývojářům!",
+  "error": "Nepodařilo se odeslat zprávu o chybě!",
+  "attention": "Pozor!",
+  "modal-title": "Odeslat novou zprávu o chybě",
+  "modal-topic": "(příklad: příkaz /ping)",
+  "modal-top": "Téma",
+  "modal-description": "(příklad: Bot nereaguje správně)",
+  "modal-dec": "Popis"
+}

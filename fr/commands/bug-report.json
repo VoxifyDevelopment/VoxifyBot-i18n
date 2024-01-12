@@ -1,0 +1,13 @@
+{
+  "name": "bug-report",
+  "description": "Signaler un bug aux développeurs.",
+  "description-2": "Soyez précis sur ce qui a causé l'erreur ou le bug.\nFournissez une description détaillée de comment reproduire le bug.",
+  "success": "Rapport de bug envoyé avec succès aux développeurs !",
+  "error": "Impossible d'envoyer le rapport de bug !",
+  "attention": "Attention !",
+  "modal-title": "Soumettre un nouveau rapport de bug",
+  "modal-topic": "(exemple : commande /ping)",
+  "modal-top": "Sujet",
+  "modal-description": "(exemple : le Bot ne répond pas correctement)",
+  "modal-dec": "Description"
+}

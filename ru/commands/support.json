@@ -1,0 +1,11 @@
+{
+  "name": "support",
+  "description": "Присоединяйтесь к нашему серверу поддержки.",
+  "success": "Нужна помощь или есть вопрос? Присоединяйтесь к нашему серверу поддержки.",
+  "s-button-name": "Присоединиться к серверу",
+  "s-button-emoji": "🤝",
+  "s-button-url": "discord://discord.com/invite/wUXQt9hb84",
+  "w-button-name": "Вики",
+  "w-button-emoji": "📚",
+  "w-button-url": "https://wiki.voxify.dev/voxifydevelopment/voxifybot/getting-started"
+}

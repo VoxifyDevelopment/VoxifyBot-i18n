@@ -1,0 +1,13 @@
+{
+  "name": "bug-report",
+  "description": "Melde einen Fehler an die Entwickler.",
+  "description-2": "Bitte sei genau in dem, was den Fehler oder Bug verursacht hat.\nGib eine detaillierte Beschreibung dazu, wie man den Fehler reproduzieren kann.",
+  "success": "Fehlerbericht erfolgreich an die Entwickler gesendet!",
+  "error": "Fehlerbericht konnte nicht gesendet werden!",
+  "attention": "Achtung!",
+  "modal-title": "Einen neuen Fehlerbericht senden",
+  "modal-topic": "(Beispiel: /ping Befehl)",
+  "modal-top": "Thema",
+  "modal-description": "(Beispiel: Bot antwortet nicht ordnungsgemäß)",
+  "modal-dec": "Beschreibung"
+}

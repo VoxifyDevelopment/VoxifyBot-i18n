@@ -1,0 +1,13 @@
+{
+  "name": "bug-report",
+  "description": "Zgłoś błąd do programistów.",
+  "description-2": "Proszę, podaj precyzyjne informacje na temat tego, co spowodowało błąd lub problem.\nPodaj szczegółowy opis, jak odtworzyć błąd.",
+  "success": "Zgłoszenie błędu zostało pomyślnie wysłane do programistów!",
+  "error": "Nie można było wysłać zgłoszenia błędu!",
+  "attention": "Uwaga!",
+  "modal-title": "Zgłoś nowy błąd",
+  "modal-topic": "(przykład: komenda /ping)",
+  "modal-top": "Temat",
+  "modal-description": "(przykład: Bot nie reaguje poprawnie)",
+  "modal-dec": "Opis"
+}
