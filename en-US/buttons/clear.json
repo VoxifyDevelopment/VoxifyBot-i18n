@@ -1,1 +1,4 @@
-{}
+{
+  "name": "(TVC) BulkDelete ~100 channel messages",
+  "success": "Successfully cleared`${count}` messages."
+}
