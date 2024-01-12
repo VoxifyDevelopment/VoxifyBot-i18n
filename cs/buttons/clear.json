@@ -1,0 +1,4 @@
+{
+  "name": "(TVC) Hromadné smazání ~100 zpráv v kanálu",
+  "success": "Úspěšně odstraněno `${count}` zpráv."
+}

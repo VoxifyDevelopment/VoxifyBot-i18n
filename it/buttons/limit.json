@@ -1,0 +1,10 @@
+{
+  "name": "(TVC) Modifica il limite del canale",
+  "success": "Limite impostato con successo a: `${limit} kbps`",
+  "already": "Il limite è già impostato a: `${limit}`",
+  "wrong-input": "Puoi impostare il limite solo nell'intervallo da 0 a 99 kbps.",
+  "modal": {
+    "input": "Limite (0-99) | 0 - illimitato",
+    "placeholder": "Nuovo limite"
+  }
+}

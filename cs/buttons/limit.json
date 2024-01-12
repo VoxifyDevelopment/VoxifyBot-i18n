@@ -1,0 +1,10 @@
+{
+  "name": "(TVC) Změnit limit kanálu",
+  "success": "Limit úspěšně nastaven na: `${limit} kbps`",
+  "already": "Limit je již nastaven na: `${limit}`",
+  "wrong-input": "Limit můžete nastavit pouze v rozmezí 0 - 99 kbps.",
+  "modal": {
+    "input": "Limit (0-99) | 0 - neomezeně",
+    "placeholder": "Nový limit"
+  }
+}

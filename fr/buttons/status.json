@@ -1,0 +1,9 @@
+{
+  "name": "(TVC) Changer l'état du canal",
+  "success": "État du canal réglé avec succès à:\n```\n${status}\n```",
+  "already": "Le statut est déjà: \n```\n${status}\n```",
+  "modal": {
+    "input": "État",
+    "placeholder": "Nouvel État"
+  }
+}

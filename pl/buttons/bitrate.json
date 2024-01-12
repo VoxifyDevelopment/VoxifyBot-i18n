@@ -1,0 +1,10 @@
+{
+  "name": "(TVC) Zmień prędkość transmisji kanału",
+  "success": "Prędkość transmisji pomyślnie ustawiona na: `${bitrate} kbps`",
+  "already": "Prędkość transmisji jest już ustawiona na: `${bitrate} kbps`",
+  "wrong-input": "Możesz ustawić prędkość transmisji tylko w zakresie od 8 do 96 kbps.",
+  "modal": {
+    "input": "Prędkość transmisji (8-96) | Domyślna (64)",
+    "placeholder": "Nowa prędkość transmisji"
+  }
+}

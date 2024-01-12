@@ -1,0 +1,9 @@
+{
+  "name": "(TVC) Změnit název kanálu",
+  "success": "Název kanálu úspěšně nastaven na: `${name}`",
+  "already": "Název již je: `${name}`",
+  "modal": {
+    "input": "Název",
+    "placeholder": "Nový Název"
+  }
+}

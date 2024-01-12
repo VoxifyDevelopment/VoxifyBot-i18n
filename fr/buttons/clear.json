@@ -1,0 +1,4 @@
+{
+  "name": "(TVC) Supprimer en masse ~100 messages du canal",
+  "success": "`${count}` messages effacés avec succès."
+}

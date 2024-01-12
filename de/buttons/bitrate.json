@@ -1,0 +1,10 @@
+{
+  "name": "(TVC) Ändere Kanal-Bitrate",
+  "success": "Bitrate erfolgreich auf: `${bitrate} kbps` gesetzt",
+  "already": "Die Bitrate ist bereits auf: `${bitrate} kbps` eingestellt",
+  "wrong-input": "Die Bitrate kann nur im Bereich von 8 bis 96 kbps festgelegt werden.",
+  "modal": {
+    "input": "Bitrate (8-96) | Standard (64)",
+    "placeholder": "Neue Bitrate"
+  }
+}

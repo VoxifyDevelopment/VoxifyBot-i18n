@@ -1,0 +1,10 @@
+{
+  "name": "(TVC) Changer le débit du canal",
+  "success": "Débit configuré avec succès à: `${bitrate} kbps`",
+  "already": "Le débit est déjà à: `${bitrate} kbps`",
+  "wrong-input": "Vous ne pouvez définir le débit qu'entre 8 et 96 kbps.",
+  "modal": {
+    "input": "Débit (8-96) | Par défaut (64)",
+    "placeholder": "Nouveau débit"
+  }
+}

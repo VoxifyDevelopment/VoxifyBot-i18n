@@ -1,0 +1,4 @@
+{
+  "name": "(TVC) Elimina in blocco ~100 messaggi del canale",
+  "success": "Eliminati con successo `${count}` messaggi."
+}

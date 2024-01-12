@@ -1,0 +1,9 @@
+{
+  "name": "(TVC) Kanalnamen ändern",
+  "success": "Kanalname erfolgreich auf: `${name}` gesetzt",
+  "already": "Der Name lautet bereits: `${name}`",
+  "modal": {
+    "input": "Name",
+    "placeholder": "Neuer Name"
+  }
+}

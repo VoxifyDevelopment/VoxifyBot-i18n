@@ -1,0 +1,9 @@
+{
+  "name": "(TVC) Zmień status kanału",
+  "success": "Pomyślnie ustawiono status kanału na:\n```\n${status}\n```",
+  "already": "Status jest już: \n```\n${status}\n```",
+  "modal": {
+    "input": "Status",
+    "placeholder": "Nowy Status"
+  }
+}

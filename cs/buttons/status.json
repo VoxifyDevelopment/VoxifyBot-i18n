@@ -1,0 +1,9 @@
+{
+  "name": "(TVC) Změnit stav kanálu",
+  "success": "Stav kanálu byl úspěšně nastaven na:\n```\n${status}\n```",
+  "already": "Stav již je: \n```\n${status}\n```",
+  "modal": {
+    "input": "Stav",
+    "placeholder": "Nový Stav"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "(TVC) Změnit bitovou rychlost kanálu",
+  "success": "Bitová rychlost úspěšně nastavena na: `${bitrate} kbps`",
+  "already": "Bitová rychlost je již nastavena na: `${bitrate} kbps`",
+  "wrong-input": "Bitovou rychlost můžete nastavit pouze v rozsahu 8 - 96 kbps.",
+  "modal": {
+    "input": "Bitrate (8-96) | Výchozí (64)",
+    "placeholder": "Nová bitová rychlost"
+  }
+}
