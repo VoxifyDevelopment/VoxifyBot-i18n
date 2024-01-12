@@ -1,1 +1,10 @@
-{}
+{
+  "name": "(TVC) Change Channel Limit",
+  "success": "Successfully set the limit to: `${limit} kbps`",
+  "already": "The limit is already at: `${limit}`",
+  "wrong-input": "You can only set the limit in a range of 0 - 99 kbps.",
+  "modal": {
+    "input": "Limit (0-99) | 0 - unlimited",
+    "placeholder": "New Limit"
+  }
+}

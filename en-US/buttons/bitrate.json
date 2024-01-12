@@ -1,1 +1,10 @@
-{}
+{
+  "name": "(TVC) Change Channel Bitrate",
+  "success": "Successfully set the bitrate to: `${bitrate} kbps`",
+  "already": "The bitrate is already at: `${bitrate} kbps`",
+  "wrong-input": "You can only set the bitrate in a range of 8 - 96 kbps.",
+  "modal": {
+    "input": "Bitrate (8-96) | Default (64)",
+    "placeholder": "New Bitrate"
+  }
+}

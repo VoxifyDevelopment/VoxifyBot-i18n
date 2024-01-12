@@ -1,1 +1,9 @@
-{}
+{
+  "name": "(TVC) Change Channel Status",
+  "success": "Successfully set the status to:\n```\n${status}\n```",
+  "already": "The status is already: \n```\n${status}\n```",
+  "modal": {
+    "input": "Status",
+    "placeholder": "New Status"
+  }
+}
