@@ -1,1 +1,4 @@
-{}
+{
+  "name": "(TVC) Rendre le canal privé",
+  "success": "Le canal vocal temporaire est maintenant privé."
+}

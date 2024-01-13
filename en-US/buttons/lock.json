@@ -1,1 +1,4 @@
-{}
+{
+  "name": "(TVC) Lock Channel",
+  "success": "The temporary voice channel is locked now."
+}

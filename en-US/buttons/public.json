@@ -1,1 +1,4 @@
-{}
+{
+  "name": "(TVC) Set Channel Public",
+  "success": "The temporary voice channel is public now."
+}
