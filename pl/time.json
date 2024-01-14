@@ -1,0 +1,40 @@
+{
+  "unit": {
+    "millisecond": {
+      "singular": "milisekunda",
+      "plural": "milisekundy"
+    },
+    "second": {
+      "singular": "sekunda",
+      "plural": "sekundy"
+    },
+    "minute": {
+      "singular": "minuta",
+      "plural": "minuty"
+    },
+    "hour": {
+      "singular": "godzina",
+      "plural": "godziny"
+    },
+    "day": {
+      "singular": "dzień",
+      "plural": "dni"
+    },
+    "week": {
+      "singular": "tydzień",
+      "plural": "tygodnie"
+    },
+    "month": {
+      "singular": "miesiąc",
+      "plural": "miesiące"
+    },
+    "year": {
+      "singular": "rok",
+      "plural": "lata"
+    },
+    "decade": {
+      "singular": "dekada",
+      "plural": "dekady"
+    }
+  }
+}

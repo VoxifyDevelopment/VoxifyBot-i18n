@@ -1,0 +1,40 @@
+{
+  "unit": {
+    "millisecond": {
+      "singular": "мілісекунда",
+      "plural": "мілісекунди"
+    },
+    "second": {
+      "singular": "секунда",
+      "plural": "секунди"
+    },
+    "minute": {
+      "singular": "хвилина",
+      "plural": "хвилини"
+    },
+    "hour": {
+      "singular": "година",
+      "plural": "години"
+    },
+    "day": {
+      "singular": "день",
+      "plural": "дні"
+    },
+    "week": {
+      "singular": "тиждень",
+      "plural": "тижні"
+    },
+    "month": {
+      "singular": "місяць",
+      "plural": "місяці"
+    },
+    "year": {
+      "singular": "рік",
+      "plural": "роки"
+    },
+    "decade": {
+      "singular": "десятиріччя",
+      "plural": "десятиріччя"
+    }
+  }
+}

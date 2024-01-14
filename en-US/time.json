@@ -1,0 +1,49 @@
+{
+  "unit": {
+    "millisecond": {
+      "singular": "millisecond",
+      "plural": "milliseconds",
+      "conversionFactor": 1
+    },
+    "second": {
+      "singular": "second",
+      "plural": "seconds",
+      "conversionFactor": 1000
+    },
+    "minute": {
+      "singular": "minute",
+      "plural": "minutes",
+      "conversionFactor": 60000
+    },
+    "hour": {
+      "singular": "hour",
+      "plural": "hours",
+      "conversionFactor": 3600000
+    },
+    "day": {
+      "singular": "day",
+      "plural": "days",
+      "conversionFactor": 86400000
+    },
+    "week": {
+      "singular": "week",
+      "plural": "weeks",
+      "conversionFactor": 604800000
+    },
+    "month": {
+      "singular": "month",
+      "plural": "months",
+      "conversionFactor": 2628000000
+    },
+    "year": {
+      "singular": "year",
+      "plural": "years",
+      "conversionFactor": 31536000000
+    },
+    "decade": {
+      "singular": "decade",
+      "plural": "decades",
+      "conversionFactor": 315360000000
+    }
+  }
+}
